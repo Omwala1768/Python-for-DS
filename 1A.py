@@ -1,0 +1,5 @@
+print("-----------------------------------")
+print("            My Profile             ")
+print("-----------------------------------")
+print("|Name : Om Wala\n|Course : Bsc Computer Science\n|Roll No : S122\n|Subject : Python in Data Science\n|Practical No : 1")
+print("-----------------------------------")
